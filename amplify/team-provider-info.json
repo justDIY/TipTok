@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-tiptok-staging-174212-authRole",
+      "UnauthRoleArn": "arn:aws:iam::393079133445:role/amplify-tiptok-staging-174212-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::393079133445:role/amplify-tiptok-staging-174212-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-tiptok-staging-174212-deployment",
+      "UnauthRoleName": "amplify-tiptok-staging-174212-unauthRole",
+      "StackName": "amplify-tiptok-staging-174212",
+      "StackId": "arn:aws:cloudformation:us-east-1:393079133445:stack/amplify-tiptok-staging-174212/52789de0-ec09-11ec-a9a0-0a76530730b5",
+      "AmplifyAppId": "d2gmohy5djuj6k"
+    },
+    "categories": {
+      "auth": {
+        "TipTok": {}
+      }
+    }
+  }
+}
